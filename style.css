@@ -119,11 +119,11 @@
 }
 
 .box {
-    background-image: url("images/space.jpg");
+    background-image: url("space.jpg");
 }
 
 .box div {
-    background-image: url("images/space.jpg");
+    background-image: url("space.jpg");
     width: 31%;
     height: 200px;
     margin-left: 20px;
